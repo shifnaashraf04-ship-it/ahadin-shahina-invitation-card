@@ -10,3 +10,9 @@ npm-debug.log*
 next-env.d.ts
 
 *.log
+
+# Local downloads and working images
+Downloads/
+WhatsApp Image *.jpeg
+pexels-*.jpeg
+public/*-backup.jpg
