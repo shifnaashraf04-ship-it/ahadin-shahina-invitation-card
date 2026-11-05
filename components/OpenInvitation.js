@@ -70,7 +70,7 @@ export default function OpenInvitation({ children, guestName }) {
             <div className="gate-names">
               Shahina
               <div className="gate-amp">&amp;</div>
-              Ahadin
+              Ahadhin
             </div>
 
             <div className="gate-line" />
@@ -81,7 +81,7 @@ export default function OpenInvitation({ children, guestName }) {
               Open Invitation
             </button>
 
-            <p className="gate-hint">Shahina &amp; Ahadin request the pleasure of your company</p>
+            <p className="gate-hint">Shahina &amp; Ahadhin request the pleasure of your company</p>
           </div>
         </div>
       )}

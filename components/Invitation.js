@@ -28,7 +28,7 @@ export default function Invitation({ topName }) {
             <div className="side-names">
               Shahina
               <div className="side-amp">&amp;</div>
-              Ahadin
+              Ahadhin
             </div>
 
             <div className="side-line" />
@@ -51,7 +51,7 @@ export default function Invitation({ topName }) {
           <h1>
             Shahina
             <br />
-            Ahadin
+            Ahadhin
           </h1>
 
           <p className="hero-subtitle">Here begins our forever</p>
@@ -61,7 +61,7 @@ export default function Invitation({ topName }) {
           <div className="video-frame">
             <img
               src="/shahina-ahadin.jpg"
-              alt="Shahina and Ahadin wedding invitation card"
+              alt="Shahina and Ahadhin wedding invitation card"
             />
           </div>
 
@@ -146,7 +146,7 @@ export default function Invitation({ topName }) {
 
       <footer className="footer">
         Thank you for being a part of our special day
-        <span>        With love, Shahina &amp; Ahadin ♡</span>
+        <span>        With love, Shahina &amp; Ahadhin ♡</span>
       </footer>
     </>
   );
